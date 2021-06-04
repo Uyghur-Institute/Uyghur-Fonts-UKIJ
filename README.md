@@ -1,11 +1,9 @@
 # Uyghur-Fonts-UKIJ
 Uyghur Fonts UKIJ
 
-
-
-
+License : GNU General Public License<br>
 Category : Sans-serif
-License : GNU General Public License
+
 
 Family : UKIJ Title
 Designer : Tursun Sultan  
